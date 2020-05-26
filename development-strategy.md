@@ -29,7 +29,7 @@ __As a site visitor, I can see an empty site at the correct URL__
 
 __As a site visitor, I want to know what the web page is called__
 
-> assigned to Murielle
+> assigned to Murielle Negue
 
 ### Repository
 
