@@ -25,15 +25,15 @@ __As a site visitor, I can see an empty site at the correct URL__
 
 ---
 
-## 1. title
+## 1. Header and footer
 
 __As a site visitor, I want to know what the web page is called__
 
-> assigned to __
+> assigned to Murielle Negue
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `title`.
+1. This user story was developed locally by Murielle on a brach called `1-header-footer`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
