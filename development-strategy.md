@@ -78,18 +78,18 @@ Styling for the new element
 
 __As a site visitor, I want to learn about something cool__
 
-> assigned to __
+> assigned to Boam__
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `main-text`.
+1. This user story was developed locally by _Boam_ on a brach called `article-aside`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
 
 ### HTML
 
-- article element
+- article elements
 - something cool that everyone needs to know
 
 ### CSS
@@ -102,11 +102,11 @@ Styling for the new element
 
 __As a site visitor, I want to know where I can learn more__
 
-> assigned to __
+> assigned to _Boam_
 
 ### Repository
 
-1. This user story was developed locally by __ on a brach called `references`.
+1. This user story was developed locally by _Boam_ on a brach called `article-aside`.
 1. The new branch was pushed to the shared repository
 1. A pull request was made to `master` & reviewed by the team
 1. Changes were merged to `master`
