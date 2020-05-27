@@ -13,6 +13,11 @@
                                Programmer-2 : Boam
                                Programmer-3: Feruz
 
+
+## wireFrame
+
+[wire-frame](https://wireframe.cc/M49Xle)
+
 ## structure of web-page
 
 Heeder: height: 150px
