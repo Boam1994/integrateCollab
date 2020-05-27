@@ -20,19 +20,17 @@
 
 ## structure of web-page
 
-Heeder: height: 150px
-              Width: 100%
-Nav: height: 100px
-        Width: 100%
-Section: height: 200px
-              Width: 70%
+* Heeder:  height: 150px , Width: 100%
 
-Article: height: 200px
-           Width: 70%
-Aside: height: 400px
-           Width: 30%
-Footer: height: 150px;
-            Width: 100%
+* Nav: height: 100px, Width: 100%
+
+* Section: height: 200px,  Width: 70%
+
+* Article: height: 200px, Width: 70%
+
+* Aside: height: 400px, Width: 30%
+
+* Footer: height: 150px, Width: 100%
 
 
 ## programmers duty
